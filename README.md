@@ -35,7 +35,9 @@ This project leverages Power BI to provide in-depth financial insights for banki
    - Analyzed loan amounts, interest rates, and credit scores.
 5. **Predictive Modeling**: Developed models to estimate future account growth based on transaction patterns.
 6. **Visualization**: Created interactive dashboards to present insights clearly and effectively.
-https://github.com/Harshad046/ALMA-Bank-Power-BI-Dashboard/blob/main/Power%20Bi%20Dashboard%20Image.png
+
+![Power Bi Dashboard Image](https://github.com/user-attachments/assets/59293800-3d27-4485-aff5-e3a4f84e6e2c)
+
 ## Insights and Outcomes
 - **Branch Efficiency**: The rating system provided insights into branch performance and areas for improvement.
 - **Customer Analysis**: Detailed understanding of customer demographics and high-value transactions.
