@@ -1,7 +1,5 @@
 <h1 align="center">Financial Insights in Banking Data using Power BI</h1>
 
----
-
 ## Project Overview
 This project leverages Power BI to provide in-depth financial insights for banking institutions. By analyzing 'Banking Transactions' and 'Customer Account Details' datasets, we aim to help banks make informed decisions about customer relationships, risk assessment, and product offerings.
 
@@ -37,7 +35,7 @@ This project leverages Power BI to provide in-depth financial insights for banki
    - Analyzed loan amounts, interest rates, and credit scores.
 5. **Predictive Modeling**: Developed models to estimate future account growth based on transaction patterns.
 6. **Visualization**: Created interactive dashboards to present insights clearly and effectively.
-
+https://github.com/Harshad046/ALMA-Bank-Power-BI-Dashboard/blob/main/Power%20Bi%20Dashboard%20Image.png
 ## Insights and Outcomes
 - **Branch Efficiency**: The rating system provided insights into branch performance and areas for improvement.
 - **Customer Analysis**: Detailed understanding of customer demographics and high-value transactions.
